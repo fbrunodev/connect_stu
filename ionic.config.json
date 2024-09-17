@@ -1,0 +1,7 @@
+{
+  "name": "Connect_Stu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
